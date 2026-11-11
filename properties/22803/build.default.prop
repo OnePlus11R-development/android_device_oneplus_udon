@@ -1,0 +1,2 @@
+# NFC
+persist.vendor.nfc.config_file_name=libnfc-mtp-SN100.conf_22803

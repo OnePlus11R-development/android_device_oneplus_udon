@@ -1717,6 +1717,14 @@ odm/etc/irissoft_tianma_nt37705_dsc_cmd_mode_panel.dat
 odm/etc/irissoft_tianma_nt37705_dsc_cmd_mode_panel.fw
 odm/etc/irissoft_tianma_nt37705_dsc_cmd_mode_panel.xml
 
+# NFC configs
+odm/etc/nfc/libnfc-mtp-SN100.conf_22803:odm/etc/libnfc-mtp-SN100.conf_22803
+odm/etc/nfc/libnfc-mtp-SN100.conf_22881:odm/etc/libnfc-mtp-SN100.conf_22881
+odm/etc/nfc/libnfc-nci.conf_22803:vendor/etc/libnfc-nci.conf
+
+# NFC firmware
+odm/etc/nfc/sn100u.bin_sn100t_fw_01_10_68:vendor/firmware/sn100u.bin
+
 # Sensors
 odm/etc/sensor/config/lux_aod.json
 odm/etc/sensor/config/waipio_qrd_ak0991x.json
